@@ -1,0 +1,5 @@
+package com.MentorService.MentorService.Entity;
+
+public @interface Column {
+
+}

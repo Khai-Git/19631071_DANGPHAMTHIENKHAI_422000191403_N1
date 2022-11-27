@@ -1,0 +1,7 @@
+package com.MentorService.MentorService.Entity;
+
+public class Mentor {
+	private String MentorID;
+	private String Name;
+	private String Address;
+}

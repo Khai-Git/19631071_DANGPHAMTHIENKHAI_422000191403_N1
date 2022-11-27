@@ -1,0 +1,8 @@
+package com.MentorService.MentorService.Entity;
+
+public class Mentor {
+	@Column(name = "weight")
+	private String MentorID;
+	private String Name;
+	private String Address;
+}

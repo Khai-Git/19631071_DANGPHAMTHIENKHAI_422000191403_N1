@@ -1,0 +1,13 @@
+package com.MentorService.MentorService.Entity;
+
+import lombok.*;
+
+import javax.persistence.*;
+import java.io.Serializable;
+
+public class Mentor {
+	@Column(name = "weight")
+	private String MentorID;
+	private String Name;
+	private String Address;
+}
